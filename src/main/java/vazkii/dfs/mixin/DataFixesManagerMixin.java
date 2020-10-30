@@ -11,9 +11,9 @@ import vazkii.dfs.FakeDataFixer;
 @Mixin(DataFixesManager.class)
 public class DataFixesManagerMixin {
 
-//	@Overwrite
-//	private static DataFixer createFixer() {
-//		return new FakeDataFixer();
-//	}
+	@Overwrite
+	private static DataFixer createFixer() {
+		return new FakeDataFixer();
+	}
 	
 }
