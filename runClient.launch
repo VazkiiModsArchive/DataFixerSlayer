@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/DataFixerSlayer"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="FORGE_GROUP" value="net.minecraftforge"/>
+        <mapEntry key="FORGE_VERSION" value="34.1.32"/>
+        <mapEntry key="MCP_MAPPINGS" value="snapshot_20200916-1.16.2"/>
+        <mapEntry key="MCP_VERSION" value="20200911.084530"/>
+        <mapEntry key="MC_VERSION" value="1.16.3"/>
+        <mapEntry key="MOD_CLASSES" value="examplemod%%E:\MCPDev\DataFixerSlayer\bin\main;examplemod%%E:\MCPDev\DataFixerSlayer\bin\main"/>
+        <mapEntry key="assetDirectory" value="E:\Gradle\cache\caches\forge_gradle\assets"/>
+        <mapEntry key="assetIndex" value="1.16"/>
+        <mapEntry key="nativesDirectory" value="E:\MCPDev\DataFixerSlayer\build\natives"/>
+        <mapEntry key="target" value="fmluserdevclient"/>
+    </mapAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.buildship.core.classpathprovider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.userdev.LaunchTesting"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="DataFixerSlayer"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-mixin.config=datafixerslayer.mixins.json"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="DataFixerSlayer"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump &quot;-Dos.name=Windows 10&quot; -Dos.version=10.0 -Xms512M -Xmx1024M"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="E:\MCPDev\DataFixerSlayer\run"/>
+</launchConfiguration>

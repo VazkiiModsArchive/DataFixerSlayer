@@ -1,0 +1,14 @@
+{
+  "minVersion": "0.8",
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "datafixerslayer.mixins.refmap.json",
+  "package": "vazkii.dfs.mixin",
+  "mixins": [
+    "DataFixesManagerMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

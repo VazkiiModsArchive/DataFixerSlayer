@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+  <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="DataFixerSlayer"/>
+  <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.userdev.LaunchTesting"/>
+  <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP"/>
+  <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-mixin.config=datafixerslayer.mixins.json"/>
+  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="E:\MCPDev\DataFixerSlayer\run"/>
+  <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+    <mapEntry key="MOD_CLASSES" value="examplemod%%E:\MCPDev\DataFixerSlayer\bin\main;examplemod%%E:\MCPDev\DataFixerSlayer\bin\main"/>
+    <mapEntry key="MCP_MAPPINGS" value="snapshot_20200916-1.16.2"/>
+    <mapEntry key="MCP_VERSION" value="20200911.084530"/>
+    <mapEntry key="FORGE_VERSION" value="34.1.32"/>
+    <mapEntry key="FORGE_GROUP" value="net.minecraftforge"/>
+    <mapEntry key="target" value="fmluserdevserver"/>
+    <mapEntry key="MC_VERSION" value="1.16.3"/>
+  </mapAttribute>
+</launchConfiguration>

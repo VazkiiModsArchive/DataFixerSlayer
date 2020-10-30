@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+issueTrackerURL="https://github.com/Vazkii/DataFixerSlayer"
+license="Creative Commons 3.0 BY-NC-SA"
+
+[[mods]]
+modId="datafixerslayer"
+displayName="DataFixerSlayer"
+version="${version}"
+authors="Vazkii"
+description='''
+Removes the vanilla DataFixer to improve RAM usage.
+'''
