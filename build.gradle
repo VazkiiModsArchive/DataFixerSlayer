@@ -157,7 +157,8 @@ jar {
             "Implementation-Title": "${config.mod_id}",
             "Implementation-Version": "${version}",
             "Implementation-Vendor" :"vazkii",
-            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
+            "MixinConfigs": "${config.mod_id}.mixins.json"
         ])
     }
 }
